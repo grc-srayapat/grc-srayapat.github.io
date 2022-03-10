@@ -107,7 +107,7 @@ p {
 }
     
     nav{
-		font-family: garamond;
+		font-family: bely-display;
 		font-size: 1.2em;
 		width: 400px;
 		margin: 0 auto;
@@ -125,7 +125,7 @@ nav a{
 	}
 
 a{
-	color: #444;
+	color: rgb(158, 190, 159);
 	text-decoration: none;
 	font-weight: bold;
 	}	
