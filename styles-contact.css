@@ -60,7 +60,7 @@ html, body {
   width: 100%;
   padding: 0;
   margin: 0;
-  background: url(images/nature.jpeg)
+  background: url(images/bishops_peak.jpg)
   		center center fixed no-repeat;
 	background-size: cover;
 
@@ -71,7 +71,7 @@ html, body {
     width: 800px;
 	padding: 2%;
     margin: 100px auto;
- 	background: rgba(0, 150, 178, .65); /*this uses opacity of 65% for the background color*/
+ 	background: rgba(168, 201, 207, 0.75); /*this uses opacity of 65% for the background color*/
 	text-align: center;
 }
 
