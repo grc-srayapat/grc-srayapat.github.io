@@ -25,11 +25,11 @@ header{
 
 article {
 	flex: 2 0 15em;
+	margin-right: 1em;
 }
 
 aside {
 	flex: 1 0 10em;
-	margin-left: 1em;
 }
 
 footer{
