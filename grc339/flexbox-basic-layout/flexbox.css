@@ -20,27 +20,25 @@ div.container {
 }
 
 header{
-	flex-basis: 100em;
-	margin-left: 1em;
+	flex: 0 0 100%;
 }
 
 article {
-	flex: 2 0 30em;
-	margin: 0em 1em 0em 1em;
-
+	flex: 2 0 25em;
+	margin-right: 1em;
 }
 aside {
-	flex: 2 0 15em;
+	flex: 1 0 10em;
 }
 
 footer{
-	flex-basis: 100em;
+	flex: 0 0 100%;
 	border-top: solid 1px rgb(211,211,211);
     margin-top: 2em;
 }
 
 h1, h2 {
-	margin-top: 2em;
+	margin-top: 1em;
 }
 
 h3 {
