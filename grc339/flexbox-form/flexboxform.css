@@ -38,11 +38,9 @@ section.order ul, section.method ul {
 	flex-wrap: wrap;
 	}
 
-
 section.order ul li , section.method ul li {
 	flex: 1 0 15em;
 	}
-
 
 h3{
 	margin: 2em 0 0;
@@ -51,7 +49,6 @@ h3{
 ul{
 	padding: 0;
 	list-style-type: none;
-
 }
 
 section {
