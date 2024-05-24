@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 122.28 72.04">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 21.21px;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        font-family: Operetta18-UltraBold, 'Operetta 18';
+        font-weight: 700;
+      }
+
+      .cls-1, .cls-3 {
+        fill: #221f20;
+      }
+
+      .cls-4 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-5 {
+        letter-spacing: 0em;
+      }
+
+      .cls-2 {
+        fill: #db4446;
+        font-size: 46.8px;
+      }
+
+      .cls-6, .cls-7 {
+        font-size: 19.78px;
+      }
+
+      .cls-8 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-7 {
+        letter-spacing: 0em;
+      }
+
+      .cls-9 {
+        letter-spacing: 0em;
+      }
+
+      .cls-10 {
+        font-size: 22.6px;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <text class="cls-1" transform="translate(0 60.7)"><tspan class="cls-5" x="0" y="0">G</tspan><tspan class="cls-9" x="16.82" y="0">ala </tspan><tspan class="cls-4" x="54.14" y="0">G</tspan><tspan x="70.52" y="0">ui</tspan><tspan class="cls-8" x="90.61" y="0">l</tspan><tspan x="97.05" y="0">d</tspan></text>
+      <text class="cls-2" transform="translate(36.52 39.78) scale(.67 1)"><tspan x="0" y="0">MET </tspan></text>
+      <text class="cls-3" transform="translate(0 29.36) scale(.97 1)"><tspan class="cls-6" x="0" y="0">T</tspan><tspan class="cls-7" x="14.69" y="0">h</tspan><tspan class="cls-6" x="27.04" y="0">e</tspan><tspan class="cls-10" x="37.77" y="0"> </tspan></text>
+    </g>
+  </g>
+</svg>
