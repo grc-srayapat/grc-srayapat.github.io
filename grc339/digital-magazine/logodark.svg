@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 101.55 77.42">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #db4446;
+        font-family: Operetta18-Bold, 'Operetta 18';
+        font-size: 55.92px;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        isolation: isolate;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-5 {
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-2, .cls-3, .cls-5 {
+        fill: #fff;
+        font-family: Operetta32-Bold, 'Operetta 32';
+        font-size: 21.21px;
+      }
+
+      .cls-5 {
+        letter-spacing: -.03em;
+      }
+    </style>
+  </defs>
+  <g id="Layer_2-2" data-name="Layer 2">
+    <g>
+      <text class="cls-1" transform="translate(3.53 47.53) scale(.73 1)"><tspan x="0" y="0">MET</tspan></text>
+      <g class="cls-4">
+        <text class="cls-3" transform="translate(0 66.06) scale(.93 1)"><tspan x="0" y="0">G</tspan></text>
+        <text class="cls-3" transform="translate(15.61 66.06) scale(.93 1)"><tspan x="0" y="0">ala </tspan></text>
+        <text class="cls-5" transform="translate(50.06 66.06) scale(.93 1)"><tspan x="0" y="0">G</tspan></text>
+        <text class="cls-3" transform="translate(65.28 66.06) scale(.93 1)"><tspan x="0" y="0">ui</tspan></text>
+        <text class="cls-2" transform="translate(83.77 66.06) scale(.93 1)"><tspan x="0" y="0">l</tspan></text>
+        <text class="cls-3" transform="translate(89.74 66.06) scale(.93 1)"><tspan x="0" y="0">d</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
